@@ -1,0 +1,2 @@
+# Requires: quasi-recursion
+# (Not available on PyPI)
